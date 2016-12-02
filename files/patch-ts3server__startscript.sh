@@ -1,5 +1,5 @@
---- ts3server_startscript.sh.orig	2016-05-22 07:28:29.741166000 +0000
-+++ ts3server_startscript.sh	2016-05-22 07:28:49.064145000 +0000
+--- ts3server_startscript.sh.orig	2016-12-02 18:39:25 UTC
++++ ts3server_startscript.sh
 @@ -4,7 +4,7 @@
  
  COMMANDLINE_PARAMETERS="${2}" #add any command line parameters you want to pass here
