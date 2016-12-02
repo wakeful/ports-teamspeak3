@@ -2,7 +2,7 @@
 # $FreeBSD$
 
 PORTNAME=	teamspeak3
-PORTVERSION=	3.0.13.4
+PORTVERSION=	3.0.13.6
 CATEGORIES=	net net-im
 MASTER_SITES=	http://dl.4players.de/ts/releases/${PORTVERSION}/
 DISTNAME=	${PORTNAME}-server_freebsd_amd64-${PORTVERSION}
