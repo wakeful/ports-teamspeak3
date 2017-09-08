@@ -1,4 +1,4 @@
-# Created by: Adrian Jaskuła <aj@laatu.uk>
+# Created by: Adrian Jaskuła <aj@48k.io>
 # $FreeBSD$
 
 PORTNAME=	teamspeak3
@@ -7,7 +7,7 @@ CATEGORIES=	net net-im
 MASTER_SITES=	http://dl.4players.de/ts/releases/${PORTVERSION}/
 DISTNAME=	${PORTNAME}-server_freebsd_amd64-${PORTVERSION}
 
-MAINTAINER=	aj@laatu.uk
+MAINTAINER=	aj@48k.io
 COMMENT=	TeamSpeak is proprietary voice-over-Internet Protocol software
 
 LICENSE=	NPL
